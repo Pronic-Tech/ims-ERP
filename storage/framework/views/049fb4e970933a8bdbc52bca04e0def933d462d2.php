@@ -1,0 +1,1 @@
+<?php echo e($panel, false); ?><?php /**PATH C:\xampp7.4\htdocs\EduFirm\resources\views/attendance/student/includes/breadcrumb-primary.blade.php ENDPATH**/ ?>

@@ -1,0 +1,12 @@
+if you have some real data then it will be the manual process, please contact us WhatsApp:+977-9868156047 or mail us freelancerumeshnepal@gmail.com for free support
+
+Update Guide:
+-----------------
+1) delete all the existing script and replace edufirm script
+2) if you have some real data and want to update, simply connect your server using commandline or you can use your cpanel terminal
+3) hit "php artisan migrate" command to migrate new database tables
+
+
+
+
+if you have any problem, ping me for support with smile.
